@@ -5,7 +5,8 @@ This project uses customer transaction data from the [Online Retail II dataset](
 ## Project Overview
 
 The goal of this project is to segment customers using unsupervised machine learning techniques. By grouping customers based on purchasing patterns, businesses can better understand customer behavior and tailor marketing strategies to each group.
-you can access the project on streamlit [here](https://customerclusters.streamlit.app/)
+you can access the project on streamlit [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customerclusters.streamlit.app/)
+
 
 ### Dataset
 
@@ -87,3 +88,7 @@ Future enhancements may include:
 - Testing other clustering algorithms such as DBSCAN or Hierarchical Clustering.
 - Incorporating additional features for more complex customer segmentation.
 - Building a customer recommendation system based on the clusters.
+
+
+
+[presentation](https://www.canva.com/design/DAGS4L9d94g/cZaYy6N6jybaLr0lYJNyGQ/edit?utm_content=DAGS4L9d94g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
