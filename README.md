@@ -64,8 +64,11 @@ The project leverages the following steps:
    - **Reactivation Campaigns**: Utilize re-engagement discounts or personalized emails to understand why these customers became inactive.
    - **Surveys & Feedback**: Conduct surveys to gather insights on their disengagement and identify areas for improvement.
 
-<!-- <img src="plot2.png" alt="Customer Segmentation Plot" width="600" height="400"><br> -->
-![Customer Segmentation Plot](./plots/plot2.png)
+### Cluster Visualization
+<img src="./plots/plot2.png" alt="Customer Segmentation Plot" width="800" height="800"><br>
+<img src="./plots/plot3.png" alt="Customer Segmentation Plot" width="800" height="600"><br>
+![Customer Segmentation Plot](./plots/plot4.png)
+
 
 ---
 
