@@ -37,7 +37,7 @@ The project leverages the following steps:
 
 
 ### Cluster Analysis
-<img src="plot.png" alt="Customer Segmentation Plot" width="600" height="400"><br>
+<img src="./plots/plot.png" alt="Customer Segmentation Plot" width="600" height="400"><br>
 #### 1. **Cluster 0 (Blue)**: **"Moderate-Value, Infrequent, Active Recency"**     
    **Suggested Actions**:  
    - **Upsell and Cross-Sell**: Leverage mid-level promotions or recommend complementary products to increase their spending.
@@ -65,7 +65,7 @@ The project leverages the following steps:
    - **Surveys & Feedback**: Conduct surveys to gather insights on their disengagement and identify areas for improvement.
 
 <!-- <img src="plot2.png" alt="Customer Segmentation Plot" width="600" height="400"><br> -->
-![Customer Segmentation Plot](plot2.png)
+![Customer Segmentation Plot](./plots/plot2.png)
 
 ---
 
@@ -75,9 +75,6 @@ The project leverages the following steps:
 - **Clusters 2 and 3 (Green and Red)** require efforts to increase engagement and spending, especially Cluster 3, which needs reactivation strategies.
 
 These insights can guide data-driven marketing strategies and resource allocation for customer management.
-
-## Usage Instructions
-
 
 ## Future Work
 

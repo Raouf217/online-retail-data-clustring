@@ -4,5 +4,5 @@ matplotlib
 seaborn
 plotly
 scikit-learn
-openpyxl
+streamlit
 ydata_profiling
